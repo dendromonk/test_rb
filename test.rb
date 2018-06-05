@@ -7,4 +7,5 @@ def test_ruby
   p "test"
   p "test2"
   p "test3"
+  p "test4"
 end
