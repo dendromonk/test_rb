@@ -5,4 +5,5 @@
 
 		test = "This is  Test."
 		p "#{test}"
+		p "test"
 	end
